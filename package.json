@@ -1,0 +1,12 @@
+{
+  "name": "message-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Johan Olsson",
+  "license": "MIT",
+  "dependencies": {
+    "jsondiffpatch": "^0.2.4",
+    "jsonwebtoken": "^7.2.1"
+  }
+}
